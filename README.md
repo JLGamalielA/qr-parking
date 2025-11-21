@@ -1,4 +1,4 @@
-🚗 QR-Parking - Sistema de Gestión de Estacionamientos
+QR-Parking - Sistema de Gestión de Estacionamientos
 
 Este proyecto es para una plataforma  de estacionamientos inteligentes construida con Laravel. Incluye portales para administradores, dueños de negocio y usuarios finales, etc.
 
